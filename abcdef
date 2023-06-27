@@ -1,0 +1,35 @@
+abcdef
+
+binário 01
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RBG = Red Green Blue
+
+# - - - - - -
+
+0 = ausência
+
+ F= Máximo
+
+ #0000000
+
+ #FFFFFF
+
+ #FF
+
+ red
+ blue
+ yellon
+
+ RBG 0,1,2,3,...255
+
+ 0 = ansência
+
+255= máximo
+
+rgb(255,255,255)
+
+rgb(0,0,255s)
